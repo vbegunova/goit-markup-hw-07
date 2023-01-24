@@ -118,10 +118,6 @@ header {
 
 /* Main navigation */
 
-.main-nav {
-
-}
-
 @media screen and (min-width: 768px) {
     .main-nav {
         display: flex;
@@ -193,9 +189,6 @@ header {
 }
 
 /* Contacts */
-
-.contacts {
-}
 
 @media screen and (min-width: 768px) {
     .contacts {
