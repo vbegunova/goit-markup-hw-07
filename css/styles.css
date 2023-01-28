@@ -980,12 +980,6 @@ header {
     width: 396px;
 }
 
-/* @media screen and (max-width: 767.98px) {
-    .filter-list .item:nth-child(3n) {
-        margin-right: 100px;
-    }
-} */
-
 @media screen and (min-width: 768px) {
     .gallery-list .item,
     .gallery-list .item img {
